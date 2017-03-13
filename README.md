@@ -1,16 +1,16 @@
 # Node_Server
 
-#### Primeiramente, instale o `gulp` de forma global
+#### Primeiramente, deve-se instalar o `gulp` de forma global
 ```sh
 npm install --global gulp-cli
 ```
-*OBS: após instalar o `gulp-cli` reinicie o console.*
+*Feito isso, reinicie o console.*
 
-#### Rode o comando `npm install` para instalar as dependencias
+#### Digite `npm install`
 ```sh
 npm install
 ```
-#### Rode o comando `gulp` no console para criar o servidor:
+#### Em seguida, utilize o comado `gulp` para criar o servidor
 
 ```sh
 gulp
