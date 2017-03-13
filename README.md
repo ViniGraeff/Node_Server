@@ -6,17 +6,23 @@
 
 ##Instalação
 
-#### Primeiramente, deve-se instalar o `gulp` de forma global
-```sh
-npm install --global gulp-cli
-```
-*Feito isso, reinicie o console.*
-
-#### Digite `npm install`
+#### Primeiramente, deve-se utilizar o comando `npm install` no diretório do servidor
 ```sh
 npm install
 ```
-#### Em seguida, utilize o comado `npm start` para iniciar o servidor
+*Feito isso, devemos instalar o nodemon de forma global.*
+
+#### Digite `npm install -g nodemon`
+```sh
+npm install -g nodemon
+```
+
+#### Em seguida, devemos executar o comando `npm install nodemon --save`
+```sh
+npm install nodemon --save
+```
+
+#### Por fim, utilize o comado `npm start` para iniciar o servidor
 
 ```sh
 npm start
