@@ -16,8 +16,8 @@ npm install --global gulp-cli
 ```sh
 npm install
 ```
-#### Em seguida, utilize o comado `gulp` para criar o servidor
+#### Em seguida, utilize o comado `npm start` para iniciar o servidor
 
 ```sh
-gulp
+npm start
 ```
