@@ -1,5 +1,11 @@
 # Node_Server
 
+##Descrição
+
+#### Este é um servidor criado em node, onde se pode adicionar usuários ao mesmo.
+
+##Instalação
+
 #### Primeiramente, deve-se instalar o `gulp` de forma global
 ```sh
 npm install --global gulp-cli
